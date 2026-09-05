@@ -8,6 +8,7 @@ solve leet code
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayush-Coder077/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Ayush-Coder077/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ayush-Coder077/Leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -16,4 +17,5 @@ solve leet code
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ayush-Coder077/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ayush-Coder077/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
