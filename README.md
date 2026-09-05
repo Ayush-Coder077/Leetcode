@@ -13,6 +13,7 @@ solve leet code
 | [0509-fibonacci-number](https://github.com/Ayush-Coder077/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ayush-Coder077/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Ayush-Coder077/Leetcode/tree/master/1518-water-bottles) |
+| [3100-water-bottles-ii](https://github.com/Ayush-Coder077/Leetcode/tree/master/3100-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +40,5 @@ solve leet code
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Ayush-Coder077/Leetcode/tree/master/1518-water-bottles) |
+| [3100-water-bottles-ii](https://github.com/Ayush-Coder077/Leetcode/tree/master/3100-water-bottles-ii) |
 <!---LeetCode Topics End-->
