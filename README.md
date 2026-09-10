@@ -41,4 +41,12 @@ solve leet code
 | ------- |
 | [1518-water-bottles](https://github.com/Ayush-Coder077/Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Ayush-Coder077/Leetcode/tree/master/3100-water-bottles-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ayush-Coder077/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ayush-Coder077/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
