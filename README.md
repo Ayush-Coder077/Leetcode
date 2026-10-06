@@ -6,6 +6,7 @@ solve leet code
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-Coder077/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ayush-Coder077/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Ayush-Coder077/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ayush-Coder077/Leetcode/tree/master/0326-power-of-three) |
@@ -22,6 +23,7 @@ solve leet code
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-Coder077/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ayush-Coder077/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ayush-Coder077/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush-Coder077/Leetcode/tree/master/0342-power-of-four) |
@@ -49,4 +51,8 @@ solve leet code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Coder077/Leetcode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-Coder077/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
